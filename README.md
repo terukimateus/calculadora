@@ -11,6 +11,7 @@
 <a href="https://instagram.com/terukimateus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terukimateus" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/1067224434466902086/1077567010327777331/image.png" height="300" width="300"</p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1067224434466902086/1077575018306879538/image.png?width=431&height=585" height="631" width="585"</p>
 
-<p align="center">versão 1.0.0</p>
+<p align="center">versão 1.0.1</p>
+<P align="center">- atualizado interface</p> 
